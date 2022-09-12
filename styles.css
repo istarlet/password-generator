@@ -1,5 +1,20 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:wght@400;700&display=swap");
 
+:root {
+  --clr-background: hsl(0, 0, 11, 100%);
+  --clr-main: hsla(215, 28%, 17%, 1);
+  --clr-icon: hsla(215, 30%, 18%, 1);
+  --clr-rectangle: hsla(215, 30%, 22%, 1);
+  --clr-line: hsla(215, 28%, 25%, 1);
+  --clr-text: hsla(142, 93%, 65%, 1);
+  --clr-button: hsla(160, 84%, 39%, 1);
+  --clr-supportingtext: hsla(255, 5%, 84%, 1);
+  --clr-greenheader: hsla(144, 70%, 58%, 1);
+  --clr-whiteheader: hsla(0, 0, 100%, 1);
+
+  --fw-bold: 800;
+}
+
 /* Generic Styles */
 *,
 *::before,
